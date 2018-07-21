@@ -2,7 +2,7 @@
 %% FRONT 
 %
 
-:- initialization (main).
+:- initialization main.
 
 main :-
 	nl, write('---- CALCULADORA EM PROLOG ----'),nl,
