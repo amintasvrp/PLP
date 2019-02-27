@@ -3,6 +3,7 @@ Repository for activities developed during the discipline of Programming Languag
 
 ## Getting Started
 1. Clone the repository
+
 2.1. To run C and C++ files, use GCC:
 ```bash
 gcc file.cpp -o file
