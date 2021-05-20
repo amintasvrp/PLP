@@ -1,4 +1,4 @@
-# Dirlididi PLP
+# Dirlididi
 Repository for activities developed during the discipline of Programming Language Paradigms.
 
 ## Getting Started
